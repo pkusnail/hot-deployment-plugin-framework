@@ -22,4 +22,5 @@ In this way , this framework is able to dynamically load and unload jar file, so
 ## How to stop
  * Just remove the jar file in /plugin/ folder
  
-
+## Test Case
+The test case shows how the plugin process data in json, in order to understand the test case, you should read the [codes](https://github.com/pkusnail/DemoPlugin).
