@@ -8,10 +8,6 @@
     <artifactId>Hot_Deployment_Plugin_Framework</artifactId>
     <packaging>pom</packaging>
     <version>1.0</version>
-    <modules>
-        <module>DemoPlugin</module>
-        <module>Plugin_Implements</module>
-    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
