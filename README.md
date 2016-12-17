@@ -12,7 +12,7 @@ In this way , this framework is able to dynamically load and unload jar file, so
 ## How to start 
 * Make sure the configuration  is correct,which is in /config/plugin.json
 
-* Implement the PluginInterface.java interface, or extends the DefaultPlugin.java class, examples are [here](https://github.com/pkusnail/DemoPlugin), make sure to add module dependency the plugin implemention project.
+* Implement the PluginInterface.java interface, or extends the DefaultPlugin.java class, examples are [here](https://github.com/pkusnail/DemoPlugin), make sure to add module dependency to the plugin implemention project.
 
 * Build artifact in Intellij idea , or export lib in Eclipse 
 
